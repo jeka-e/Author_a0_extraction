@@ -1,4 +1,4 @@
-# Extraction of Authot-A0 Polarity in Sentiment Frame
+# Extraction of Author-A0 Polarity in Sentiment Frame
 
 3rd year Term Paper, final grade 9
 

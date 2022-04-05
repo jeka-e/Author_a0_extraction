@@ -5,8 +5,11 @@
 The paper is about developping a method for automatic extraction of Sentiment Frames. Sentiment Frames, coming from Fillmore's frame semantics, include predicates, which consist of verb describing situation and its participants, each of the participants is assigned positive or negative connotations (if any) between each other and author. For example: 
 
 "title": игнорировать ___'ignore'___
+
 "roles": {
+
 	"a0": "кто игнорирует" ___'one who ignores'___,
+	
 	"a1": "объект игнорирования, что или кого игнорирует" ____'one who/what is ignored'___
 },
 "frames": {

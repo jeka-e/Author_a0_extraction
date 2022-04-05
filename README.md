@@ -8,9 +8,9 @@ The paper is about developping a method for automatic extraction of Sentiment Fr
 
 "roles": {
 
-	"a0": "кто игнорирует" ___'one who ignores'___,
+	"a0": "кто игнорирует" 'one who ignores',
 	
-	"a1": "объект игнорирования, что или кого игнорирует" ____'one who/what is ignored'___
+	"a1": "объект игнорирования, что или кого игнорирует" 'one who/what is ignored'
 },
 
 "frames": {

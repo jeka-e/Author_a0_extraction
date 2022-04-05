@@ -37,4 +37,6 @@ This research concerns author-a0 polarity. The main idea was based on the fact t
 
 I utilized Bert-Embedder model from DeepPavlov to obtain a0 vector representations, then computed an average a0 embedding for every verb. Its polarity was defined with semantic axis method, proposed in (Jurafsky 2020, p.399). 
 
+The results were not very clear as I was lacking data (had to use syntactically parsed corpora to extract a0-participant), though it surely had some perspectives. 
+
 
